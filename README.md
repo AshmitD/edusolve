@@ -13,7 +13,8 @@ Prerequisite: **Mac**
   * `` npm install ``
 * Open the IOS app store
 * Download the Expo App
-* Run the app
+* Run the app from terminal
   * `` npm run ios ``
-* From your phone, scan the QR code and open the Expo App
+* From your phone, scan the QR code from the Camera App
+* Click the pop up that says "Expo QR Code, Open in Expo"
 * Enjoy the app!
