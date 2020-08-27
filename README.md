@@ -3,10 +3,10 @@
 Prerequisite: **Mac OS and Iphone**
 
 * Open terminal - The sub bullet is to be run in terminal
-* Download React Native/Expo - Only do this step if you **don't** have React Native installed already
-  * ``npm install -g expo-cli``
 * Download Node
   * https://nodejs.org/dist/v12.18.3/node-v12.18.3.pkg
+* Download React Native/Expo - Only do this step if you **don't** have React Native installed already
+  * ``npm install -g expo-cli``
 * Clone our repository
   * `` git clone https://github.com/AshmitD/edusolve.git ``
 * In terminal, make sure you are inside the directory that you just cloned
