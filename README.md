@@ -13,9 +13,9 @@ Prerequisite: **Mac OS and Iphone**
   * `` cd edusolve ``
 * Install the required node_modules
   * `` npm install ``
-* Open the IOS app store
+* Open the IOS app store on your Iphone
 * Download the Expo App
-* Run the app from terminal
+* Run the app through terminal
   * `` npm run ios ``
 * From your phone, scan the QR code from the IOS Camera App
 * Click the pop up that says "Expo QR Code, Open in Expo"
